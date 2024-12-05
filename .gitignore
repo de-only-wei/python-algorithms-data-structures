@@ -1,0 +1,9 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Virtual environments
+playground_venv/
+
+# OS-specific files
+.DS_Store  # macOS
